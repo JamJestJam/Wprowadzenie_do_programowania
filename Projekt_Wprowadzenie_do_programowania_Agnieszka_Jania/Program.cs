@@ -6,7 +6,7 @@ namespace Projekt_Wprowadzenie_do_programowania_Agnieszka_Jania
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("start");
         }
     }
 }
