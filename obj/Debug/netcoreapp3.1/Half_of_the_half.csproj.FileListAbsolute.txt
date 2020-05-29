@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Half_of_the_half\bin\Debug\netcoreapp3.1\Half_of_the_half.exe
+C:\Users\User\source\repos\Half_of_the_half\bin\Debug\netcoreapp3.1\Half_of_the_half.deps.json
+C:\Users\User\source\repos\Half_of_the_half\bin\Debug\netcoreapp3.1\Half_of_the_half.runtimeconfig.json
+C:\Users\User\source\repos\Half_of_the_half\bin\Debug\netcoreapp3.1\Half_of_the_half.runtimeconfig.dev.json
+C:\Users\User\source\repos\Half_of_the_half\bin\Debug\netcoreapp3.1\Half_of_the_half.dll
+C:\Users\User\source\repos\Half_of_the_half\bin\Debug\netcoreapp3.1\Half_of_the_half.pdb
+C:\Users\User\source\repos\Half_of_the_half\obj\Debug\netcoreapp3.1\Half_of_the_half.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Half_of_the_half\obj\Debug\netcoreapp3.1\Half_of_the_half.AssemblyInfo.cs
+C:\Users\User\source\repos\Half_of_the_half\obj\Debug\netcoreapp3.1\Half_of_the_half.dll
+C:\Users\User\source\repos\Half_of_the_half\obj\Debug\netcoreapp3.1\Half_of_the_half.pdb
